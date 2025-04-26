@@ -27,12 +27,5 @@
   <h2>Project images</h2>
 </div>
 
-![image alt]()
+![image alt](https://github.com/JoorDex/Inteligencia-Artificial/blob/9cc67f9f21cabb1fba9fa6c8c7e3148b14798cfc/Inteligencia%20Artificial/Resultados.png)
 ㅤ
-![image alt]()
-ㅤ
-![image alt]()
-ㅤ
-![image alt]()
-ㅤ
-![image alt]()
